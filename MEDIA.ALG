@@ -15,7 +15,7 @@ leia(n4)
 
 med:(n1+n2+n3+n4)/4
 
-escreval("A media final do aluno é ",med)
+escreval("A media final do aluno Ã© ",med)
 
 se (med<6) entao
    escreval("Aluno reprovado")
